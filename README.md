@@ -1,4 +1,3 @@
-![A picture of myself](IMG_8506.jpeg)
 <img src ="IMG_8506.jpeg" alt="A picture of myself" width="200"/>
 
 # Bio 
