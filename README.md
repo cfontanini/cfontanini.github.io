@@ -1,11 +1,3 @@
-# This is a header
+# Bio 
 
-This is regular text
-
-## This is a smaller header
-
-This is regular text
-
-### This is am even smaller header
-
-This is regular text
+I am a mathematics undergraduate student in the University of Maryland, College Park
