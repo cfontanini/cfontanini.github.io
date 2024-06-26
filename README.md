@@ -1,6 +1,7 @@
-# Bio 
+![A picture of myself](IMG_8506.jpeg)
+<img src ="IMG_8506.jpeg" alt="A picture of myself" width="200"/>
 
-![Carlo Fontanini](IMG_8506.jpeg)
+# Bio 
 
 I am a mathematics undergraduate student in the [University of Maryland, College Park, College of Computer Mathematical and Natural Sciences](https://cmns.umd.edu). [Here](info.txt) is some more infotmation about me.
 
