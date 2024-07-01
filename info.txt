@@ -1,2 +1,12 @@
-Here is some information about me:
-- I like to play and watch basketball
+
+     Computational classes I have taken:
+          1. AP Calculus BC
+          2. AP Statistics
+          3. AP Physics 1
+          4. Calculus 3
+          5. Differential Equations for Scientists and Engineers
+          6. Introduction to Linear Algebra 
+          7. Scientific Programming: Python
+          8. Princicples of Microeconomics
+          9. Software Carpentries Workshop: Python
+  
