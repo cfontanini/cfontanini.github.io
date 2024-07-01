@@ -1,4 +1,21 @@
 
       Here is my research experience:
-            1. Round 2 of NYSSEF
-            2. Round 2 of LISEF
+            1. Round 2 of NYSSEF (New York State Science and Engineering Fair)
+            2. Round 2 of LISEF (Long Island Science and Engineering Fair)
+            3. REU at Institude for Advanced Computational Science at Stony Brook University
+
+      Conferences and Publications for points 1 and 2
+            M. Isaac, C.T. Fontanini and A. Maffei (2023) Gastrin Releasing Peptide Receptors Modulate Gustatory
+            Cortex Circuits Excitability and Function. Association for Chemosensory Sciences Annual Meeting, Bonita
+            Springs, FL. Poster Presentation.
+
+            M. Isaac, C.T. Fontanini and A. Maffei (2023) Gastrin Releasing Peptide Receptors Modulate Gustatory
+            Cortex Circuits Excitability and Function. Gordon Research Conference: Inhibition in the CNS, Le
+            Diablerets, Switzerland. Poster Presentation.
+
+            M. Isaac, C.T. Fontanini and A. Maffei (2023) Gastrin Releasing Peptide Receptors Modulate Gustatory
+            Cortex Circuits Excitability and Sensory Satiety. Society for Neuroscience Annual Meeting, Washington,
+            DC. Poster Presentation.
+
+            M. Isaac, C.T. Fontanini and A. Maffei (2024) A Neural Circuit for Sensory Satiety. Association for
+            Chemoreception Sciences Annual Meeting, Bonita Springs, FL. Poster Presentation.
